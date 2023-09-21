@@ -1,0 +1,785 @@
+{
+    "presentation": {
+        "slides": [
+            {
+                "elements": [
+                    {
+                        "x": 30.00027233115469,
+                        "y": 30.000625685017216,
+                        "width": 40,
+                        "height": 40,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.4em\">Learn about the origins and early development of artificial intelligence</span></h2>\n"
+                            },
+                            "subContentId": "1b516f02-0a55-4472-afa9-6854a6ba1b9b",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">AI History and Applications:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "cc5c0de5-1531-43e5-b45d-e6e15a758df1",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>AI has a rich history that dates back to the mid-20th century. This section will delve into the key milestones and breakthroughs in AI research, ranging from the development of early computer programs to the emergence of modern AI technologies. Additionally, we will examine the wide-ranging applications of AI in various fields, including healthcare, finance, transportation, and entertainment.</p>\n"
+                            },
+                            "subContentId": "6218f6d1-3fef-4cdd-8eb8-de929916cf13",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">Origins of AI:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "011bc66e-6183-4653-8f05-d7326f9794f2",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>The origins of AI can be traced back to the 1940s and 1950s when pioneers in the field began exploring the possibility of creating machines that could exhibit intelligent behavior. This section will provide an overview of the early developments in AI, including the Dartmouth Workshop, the Turing Test, and the birth of the first AI programs.</p>\n"
+                            },
+                            "subContentId": "f80afa10-17de-47d1-b29c-e45ee43b267c",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">Early AI Approaches:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "14ffc9fa-3b97-4188-ae81-f3fdbd5857dc",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>During the early years of AI research, different approaches were pursued to replicate human intelligence. This section will discuss the main approaches, such as symbolic AI, which focused on representing knowledge and using logical rules, and connectionism, which aimed to mimic neural networks. We will explore the strengths and limitations of these early AI approaches.</p>\n"
+                            },
+                            "subContentId": "4719676d-db2e-4fc3-85d8-e8dcade317a3",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">The AI Winter:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "c9a0ab2e-571b-444b-8e4e-d1a11d3d5cee",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>The field of AI experienced a period known as the 'AI winter' in the 1970s and 1980s, characterized by reduced funding and a decline in interest. This section will explore the reasons behind the AI winter, including unrealistic expectations, limited computing power, and challenges in algorithm development. We will also discuss how the field eventually regained momentum.</p>\n"
+                            },
+                            "subContentId": "d2543b4a-c429-4e09-9ad0-65e6004360ce",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">Expert Systems:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "bf52b82d-4db6-43ec-b28c-05976aa1e5e3",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>Expert systems were one of the major breakthroughs in AI during the 1980s. This section will delve into the concept of expert systems, which aimed to capture and replicate the knowledge and reasoning abilities of human experts. We will explore the components of expert systems and their applications in fields such as medicine, finance, and engineering.</p>\n"
+                            },
+                            "subContentId": "03568a5c-a734-405e-9716-b0d01c1e6350",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">Machine Learning:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "bf5b19a5-9bc7-4fd3-803b-8b043c952d89",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>Machine learning is a subfield of AI that focuses on enabling machines to learn from data and improve performance over time. This section will introduce the fundamental principles of machine learning, including supervised learning, unsupervised learning, and reinforcement learning. We will also explore popular machine learning algorithms, such as decision trees, neural networks, and support vector machines.</p>\n"
+                            },
+                            "subContentId": "f2d0117d-5e29-45ad-801c-c50ec514a587",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">Neural Networks:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "16ac09ac-a45b-42ff-8faa-dcd1471e1771",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>Neural networks are an important component of many AI systems and have witnessed significant advancements in recent years. This section will provide an in-depth understanding of neural networks, including their architecture, activation functions, and training algorithms. We will also explore the applications of neural networks in areas such as image recognition, natural language processing, and autonomous driving.</p>\n"
+                            },
+                            "subContentId": "c3d3e262-06e6-4b82-a580-321dce3e450d",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">Natural Language Processing (NLP):</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "f5ea5030-a914-40eb-bd9a-452567db6840",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>Natural Language Processing (NLP) is a branch of AI that focuses on enabling computers to understand, interpret, and generate human language. This section will cover the challenges in NLP, such as language ambiguity and context understanding, and the techniques used to address them, including statistical models, deep learning, and language models like BERT and GPT-3.</p>\n"
+                            },
+                            "subContentId": "3d569b75-8b0a-46c9-b6f6-791cec16f42a",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">Robotics and AI:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "3d834f27-8f24-44c9-b6a5-33d6a9124e6a",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>Robotics is a field closely related to AI, as it involves the design, development, and deployment of physical robots capable of performing tasks autonomously or with human guidance. This section will explore the intersection of robotics and AI, covering topics such as robot perception, motion planning, and robot learning. We will also highlight real-world applications of robotic systems.</p>\n"
+                            },
+                            "subContentId": "5d7a24a3-5917-433b-989f-7fc1d7b50f16",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">Ethical Considerations in AI:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "9955fe3e-8289-4d06-9126-e45df8d6e3cb",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>As AI technologies advance, it becomes crucial to consider their ethical implications. This section will discuss the ethical challenges associated with AI, such as bias in algorithms, privacy concerns, and the impact on employment. We will also examine approaches to address these ethical concerns, including the development of responsible AI frameworks and regulations.</p>\n"
+                            },
+                            "subContentId": "88350e7f-57e4-4c44-8259-2d3c0ab9f2a7",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            },
+            {
+                "elements": [
+                    {
+                        "x": 29.411764705882355,
+                        "y": 4.315069084256039,
+                        "width": 39.99869281045751,
+                        "height": 10.787672710640097,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<h2 style=\"text-align:center\"><span style=\"font-size:1.275em\">The Future of AI:</span></h2>\n\n<p> </p>\n"
+                            },
+                            "subContentId": "85777dcc-7fd7-44c5-bf8c-d7f56b7357a0",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    },
+                    {
+                        "x": 3.2679738562091507,
+                        "y": 21.575345421280193,
+                        "width": 92.5925925925926,
+                        "height": 73.35617443235266,
+                        "action": {
+                            "library": "H5P.AdvancedText 1.1",
+                            "params": {
+                                "text": "<p>In this final section, we will take a glimpse into the future of AI. We will explore emerging trends and advancements in AI research, such as explainable AI, AI for social good, and the potential impact of AI on society. Additionally, we will discuss the importance of lifelong learning and staying updated in the rapidly evolving field of AI.</p>\n"
+                            },
+                            "subContentId": "9432f12f-fcf6-4fd3-9938-7dd073626ada",
+                            "metadata": {
+                                "contentType": "Text",
+                                "license": "U",
+                                "title": "Untitled Text",
+                                "authors": [],
+                                "changes": []
+                            }
+                        },
+                        "alwaysDisplayComments": false,
+                        "backgroundOpacity": 0,
+                        "displayAsButton": false,
+                        "buttonSize": "big",
+                        "goToSlideType": "specified",
+                        "invisible": false,
+                        "solution": ""
+                    }
+                ],
+                "keywords": [],
+                "slideBackgroundSelector": {}
+            }
+        ],
+        "keywordListEnabled": true,
+        "globalBackgroundSelector": {
+            "imageGlobalBackground": {
+                "path": "images/image-KHRuMxGE.png",
+                "mime": "image/png",
+                "copyright": {
+                    "license": "U"
+                },
+                "width": 1202,
+                "height": 674
+            }
+        },
+        "keywordListAlwaysShow": false,
+        "keywordListAutoHide": false,
+        "keywordListOpacity": 90
+    },
+    "override": {
+        "activeSurface": false,
+        "hideSummarySlide": false,
+        "summarySlideSolutionButton": true,
+        "summarySlideRetryButton": true,
+        "enablePrintButton": true,
+        "social": {
+            "showFacebookShare": true,
+            "facebookShare": {
+                "url": "@currentpageurl",
+                "quote": "I scored @score out of @maxScore on a task at @currentpageurl."
+            },
+            "showTwitterShare": true,
+            "twitterShare": {
+                "statement": "I scored @score out of @maxScore on a task at @currentpageurl.",
+                "url": "@currentpageurl",
+                "hashtags": "h5p, course"
+            },
+            "showGoogleShare": false,
+            "googleShareUrl": "@currentpageurl"
+        }
+    },
+    "l10n": {
+        "slide": "Slide",
+        "score": "Score",
+        "yourScore": "Your Score",
+        "maxScore": "Max Score",
+        "total": "Total",
+        "totalScore": "Total Score",
+        "showSolutions": "Show solutions",
+        "retry": "Retry",
+        "exportAnswers": "Export text",
+        "hideKeywords": "Hide sidebar navigation menu",
+        "showKeywords": "Show sidebar navigation menu",
+        "fullscreen": "Fullscreen",
+        "exitFullscreen": "Exit fullscreen",
+        "prevSlide": "Previous slide",
+        "nextSlide": "Next slide",
+        "currentSlide": "Current slide",
+        "lastSlide": "Last slide",
+        "solutionModeTitle": "Exit solution mode",
+        "solutionModeText": "Solution Mode",
+        "summaryMultipleTaskText": "Multiple tasks",
+        "scoreMessage": "You achieved:",
+        "shareFacebook": "Share on Facebook",
+        "shareTwitter": "Share on Twitter",
+        "shareGoogle": "Share on Google+",
+        "summary": "Summary",
+        "solutionsButtonTitle": "Show comments",
+        "printTitle": "Print",
+        "printIngress": "How would you like to print this presentation?",
+        "printAllSlides": "Print all slides",
+        "printCurrentSlide": "Print current slide",
+        "noTitle": "No title",
+        "accessibilitySlideNavigationExplanation": "Use left and right arrow to change slide in that direction whenever canvas is selected.",
+        "accessibilityCanvasLabel": "Presentation canvas. Use left and right arrow to move between slides.",
+        "accessibilityProgressBarLabel": "Choose slide to display",
+        "containsNotCompleted": "@slideName contains not completed interaction",
+        "containsCompleted": "@slideName contains completed interaction",
+        "slideCount": "Slide @index of @total",
+        "containsOnlyCorrect": "@slideName only has correct answers",
+        "containsIncorrectAnswers": "@slideName has incorrect answers",
+        "shareResult": "Share Result",
+        "accessibilityTotalScore": "You got @score of @maxScore points in total",
+        "accessibilityEnteredFullscreen": "Entered fullscreen",
+        "accessibilityExitedFullscreen": "Exited fullscreen",
+        "confirmDialogHeader": "Submit your answers",
+        "confirmDialogText": "This will submit your results, do you want to continue?",
+        "confirmDialogConfirmText": "Submit and see results",
+        "slideshowNavigationLabel": "Slideshow navigation"
+    }
+}
